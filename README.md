@@ -161,3 +161,23 @@ kullandım, Visual Studio yardımı ile oyun içerisinde kullandığım script d
 dili kullanarak kodladım.
 
 #
+
+### Ekran Görüntüleri
+
+![1](https://user-images.githubusercontent.com/57284119/187036547-bceea412-35d9-4db8-b51f-d0aa02ec1be4.png)
+
+![2](https://user-images.githubusercontent.com/57284119/187036550-a81ae605-3327-42ec-8590-66f50d6f5345.png)
+
+![3](https://user-images.githubusercontent.com/57284119/187036551-46cf176a-f43f-4d78-acda-b5284a074d8a.png)
+
+![4](https://user-images.githubusercontent.com/57284119/187036554-99669702-b375-4111-a578-3586f51e6d41.png)
+![6](https://user-images.githubusercontent.com/57284119/187036557-8bc97982-2934-4a41-892c-9b31a7c4e8f5.png)
+![7](https://user-images.githubusercontent.com/57284119/187036563-0b5cacc5-c273-430f-a97b-5815c935ca36.png)
+![8](https://user-images.githubusercontent.com/57284119/187036566-0019a3fa-08fa-423e-8e7d-5be73a4dc6ee.png)
+![9](https://user-images.githubusercontent.com/57284119/187036568-cf8a9441-5519-4294-8d5f-9b0b7cfb6a6b.png)
+![10](https://user-images.githubusercontent.com/57284119/187036570-10a9def3-9ab0-432e-976f-b5b9ecbaf7ce.png)
+![11](https://user-images.githubusercontent.com/57284119/187036571-9db3d191-c909-4407-be22-c300cacfb06e.png)
+![12](https://user-images.githubusercontent.com/57284119/187036575-bae1f994-1a30-43e4-b06e-e1c6659fa034.png)
+![13](https://user-images.githubusercontent.com/57284119/187036577-cb26ad61-576e-419a-a44e-58f2cfe6f6be.png)
+
+
